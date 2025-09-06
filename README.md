@@ -1,0 +1,2 @@
+# Quantifying-the-depth-of-multipartite-entanglement
+This software is designed to detect and quantify the depth of multipartite entanglement in quantum states. It currently supports four system sizes: 2-qubit, 3-qubit, 4-qubit, and 5-qubit. For any state within these dimensions, the program computes the corresponding $k$-partite entanglement measures (i.e., the depth of multipartite entanglement). 
